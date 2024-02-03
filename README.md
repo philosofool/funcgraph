@@ -1,2 +1,3 @@
-# funcgraph
-Repo for developing a graph composable processes in python
+# FuncGraph
+Repo for developing a graph composable processes in Python.
+
